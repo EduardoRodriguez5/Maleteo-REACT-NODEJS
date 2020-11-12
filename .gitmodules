@@ -1,0 +1,6 @@
+[submodule "BackMaleteo"]
+	path = BackMaleteo
+	url = git@github.com:EduardoRodriguez5/BackMaleteo.git
+[submodule "react-maleteo-frontend"]
+	path = react-maleteo-frontend
+	url = git@github.com:ariadnavilar/react-maleteo-frontend.git
